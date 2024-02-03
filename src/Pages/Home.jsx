@@ -6,11 +6,7 @@ import {Route, Router} from "react-router-dom"
 const Home = () => {
   return (
     <div>
-      <Router>
-        Route
-      <Header/>
-      <Footer/>
-      </Router>
+     <Header/>
     </div>
   )
 }

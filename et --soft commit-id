@@ -1,0 +1,24 @@
+[33mcommit a89c6d453e19367fee9a56a5a93f8b570afa7407[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 2d1ee9d 91077ad
+Author: Kamal Pandey <kamalpandey9808@gmail.com>
+Date:   Sat Feb 3 00:08:41 2024 +0530
+
+    Merge branch 'master' of https://github.com/app-casting/Hunger-Eats
+
+[33mcommit 2d1ee9d41c44a67eff2c70bdadf0f3ecce531ba0[m
+Author: Kamal Pandey <kamalpandey9808@gmail.com>
+Date:   Fri Feb 2 23:47:10 2024 +0530
+
+    Router Setup
+
+[33mcommit 91077ad5d180d638266ac6dbee2a9cfe6e29061c[m
+Author: Kamal Pandey <kamalpandey9808@gmail.com>
+Date:   Fri Feb 2 00:51:10 2024 +0530
+
+    Navbar
+
+[33mcommit 425930cd4b79990af68d1f92ad64afd2ee931a14[m
+Author: Kamal Pandey <kamalpandey9808@gmail.com>
+Date:   Thu Feb 1 22:22:11 2024 +0530
+
+    Project Setup

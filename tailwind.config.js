@@ -9,7 +9,8 @@ export default {
      colors: {
       navbar: "#8ACDD7",
       home:"#8ACDD7",
-      pink: "#FF90BC"
+      pink: "#D63484",
+      logobg:"#F9F9E0"
      }
   },
   },
