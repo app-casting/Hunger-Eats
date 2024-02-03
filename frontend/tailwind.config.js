@@ -7,7 +7,10 @@ export default {
   theme: {
     extend: {
      colors: {
-      navbar: "#025464"
+      navbar: "#8ACDD7",
+      home:"#8ACDD7",
+      pink: "#D63484",
+      logobg:"#F9F9E0"
      }
   },
   },
