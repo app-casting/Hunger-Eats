@@ -9,6 +9,7 @@ export default {
         pink: "#D63484",
         logobg: "#F9F9E0",
         primary: "#8ACDD7",
+        itemsbg:"#FFC0D9"
       },
     },
   },
