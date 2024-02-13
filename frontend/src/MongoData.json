@@ -1,0 +1,130 @@
+  {
+        "CategoryName": "Pizza",
+        "name": "Chicken Cheese Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "120",
+                "medium": "200",
+                "large": "350"
+            }
+        ],
+        "description": "The pizza is made using Indian spices with an American twist. Try it out!!"
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Pepperoni Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "100",
+                "medium": "180",
+                "large": "300"
+            }
+        ],
+        "description": "Classic pepperoni pizza with a generous topping of pepperoni slices."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Vegetarian Supreme Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "130",
+                "medium": "210",
+                "large": "370"
+            }
+        ],
+        "description": "Loaded with a variety of fresh vegetables and cheese, a delight for vegetarians."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Margherita Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "90",
+                "medium": "160",
+                "large": "280"
+            }
+        ],
+        "description": "A classic Italian pizza topped with tomatoes, basil, and mozzarella cheese."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "BBQ Chicken Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "140",
+                "medium": "220",
+                "large": "380"
+            }
+        ],
+        "description": "Tender chicken pieces marinated in barbecue sauce, combined with cheese, and baked to perfection."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Hawaiian Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "110",
+                "medium": "190",
+                "large": "320"
+            }
+        ],
+        "description": "A tropical twist with ham, pineapple, and cheese, perfect for a unique flavor experience."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Supreme Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "150",
+                "medium": "230",
+                "large": "390"
+            }
+        ],
+        "description": "The ultimate pizza experience with a combination of meat, vegetables, and cheese."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Mushroom and Olive Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "125",
+                "medium": "205",
+                "large": "360"
+            }
+        ],
+        "description": "For mushroom and olive lovers, this pizza offers a savory and tangy flavor combination."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Buffalo Chicken Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "145",
+                "medium": "225",
+                "large": "385"
+            }
+        ],
+        "description": "Spicy buffalo chicken paired with cheese for a bold and flavorful pizza experience."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Meat Lovers Pizza",
+        "img": "https://media/",
+        "options": [
+            {
+                "regular": "160",
+                "medium": "240",
+                "large": "400"
+            }
+        ],
+        "description": "Loaded with various meats such as pepperoni, sausage, bacon, and ham for the ultimate meaty indulgence."
+    }
